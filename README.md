@@ -2,3 +2,11 @@
 
 this is the US - visa pproval model used to classify  wher u get visa or not
 
+
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+export AWS_ACCESS_KEY_ID=AKIAR6L63TKIWTZBH4OR
+
+export AWS_SECRET_ACCESS_KEY=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
+
